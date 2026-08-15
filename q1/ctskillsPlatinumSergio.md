@@ -39,7 +39,9 @@ START
     ELSE
       DISPLAY item ON visible_menu_options
     ENDIF
+    
   ENDFOR
+  
 END
 
 ---
