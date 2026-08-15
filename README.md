@@ -16,4 +16,5 @@ Platinum
 ### Computational Thinking Skills
 
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumSergio.md)
+
 [View my Computational Thinking Exercise](q1/zodiacPlatinumSergio.py)
