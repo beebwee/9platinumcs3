@@ -1,9 +1,13 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue
 **Name:** Shanaye Brielle B. Sergio
+
 **Section:** Platinum
+
 **Last Name:** Sergio
+
 **Date:** August 15, 2026
+
 ---
 
 ## Step 1: Identify the Big Problem
