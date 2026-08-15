@@ -15,4 +15,4 @@ Platinum
 
 ### Computational Thinking Skills
 
-[View my Computational Thinking Exercise](q1/ctskillsMagnesiumYowmahbaby.md)
+[View my Computational Thinking Exercise](q1/ctskillsPlatinumSergio.md)
