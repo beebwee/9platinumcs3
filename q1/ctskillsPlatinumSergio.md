@@ -1,5 +1,6 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue
+
 **Name:** Shanaye Brielle B. Sergio
 
 **Section:** Platinum
