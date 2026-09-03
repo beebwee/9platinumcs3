@@ -19,8 +19,6 @@ A writing category for journalism. It is the voice of a publication.
 ## Properties
 
 | Property | Data Type | Description |
-|---|---|---|
-
 | headline | string | Headline of the editorial |
 
 | stand | boolean | If a publication agrees or disagrees with the editorial's topic |
