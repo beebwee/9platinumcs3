@@ -28,11 +28,11 @@ A writing category for journalism. It is the voice of a publication.
 ## Methods
 
 | Method | Description |
-|---|---|| | |
 
-| criticize() | |
-| research()| |
-| establishPosition(editorial:string) | |
+|---|---|| | |
+| criticize() | Analyze and provide arguments for the editorial's topic |
+| research()| Helps add useful information for the editorial and the main stand |
+| establishPosition(editorial:string) | Make a stand about agreeing or disagreeing with the editorial topic|
 
 ## Class Diagram
 
