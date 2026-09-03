@@ -20,13 +20,9 @@ A writing category for journalism. It is the voice of a publication.
 
 | Property | Data Type | Description |
 |---|---|---|
-
 | headline | string | Headline of the editorial |
-|---|---|---|
 | stand | boolean | If a publication agrees or disagrees with the editorial's topic |
-|---|---|---|
 | argument | string | A supporting piece of evidence for the thesis |
-|---|---|---|
 | counterargument | string | A piece of evidence that may oppose the argument |
 
 ## Methods
