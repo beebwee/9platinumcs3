@@ -25,11 +25,11 @@ Platinum
 
 [classAttributesMethods.md](q1/classAttributesMethods.md)
 
-[classImplementation.py]()
+[classImplementation.py](q1/classImplementation.py)
 
-[classTestRun.txt]
+[classTestRun.txt]()
 
-[images]
+[images]()
 
 
 [{
