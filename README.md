@@ -22,3 +22,14 @@ Platinum
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
 [classObjectUML.md](q1/classObjectUML.md)
+
+[classAttributesMethods.md](q1/classAttributesMethods.md)
+
+[classImplementation.py]()
+
+[classTestRun.txt]
+
+[images]
+
+
+[{
