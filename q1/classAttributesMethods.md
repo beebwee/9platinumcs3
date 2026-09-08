@@ -44,8 +44,16 @@ I made my chosen attribute "draft" private because no one would want to see a me
 
 ### Which method changes the state of your object?
 
+append.research() and establish_position(self, editorial) mostly modified the state of my objects.
 
 ### How did your two objects demonstrate that instances are independent?
+
+My object 1 (article1) had no effect on object 2 (article2). The original data was kept, isolating both objects into separate states.
+
+### What is the difference between your class diagram and your object diagram?
+
+The class diagram only consists of class attributes, their visibility symbols, and the methods used. The object diagram, on the other hand, implements the attributes and methods into objects. 
+
 
 ### What is the difference between your class diagram and your object diagram?
 
