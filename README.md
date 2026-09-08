@@ -27,9 +27,6 @@ Platinum
 
 [classImplementation.py](q1/classImplementation.py)
 
-[classTestRun.txt]()
+[classTestRun.txt](q1/classTestRun.txt)
 
 [images]()
-
-
-[{
