@@ -29,4 +29,4 @@ Platinum
 
 [classTestRun.txt](q1/classTestRun.txt)
 
-[images]()
+[images](q1/images)
