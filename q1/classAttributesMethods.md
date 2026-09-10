@@ -54,6 +54,3 @@ My object 1 (article1) had no effect on object 2 (article2). The original data w
 
 The class diagram only consists of class attributes, their visibility symbols, and the methods used. The object diagram, on the other hand, implements the attributes and methods into objects. 
 
-
-### What is the difference between your class diagram and your object diagram?
-

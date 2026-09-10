@@ -59,4 +59,3 @@ class EditorialWriting:
     print(f"  Headline: {article2.headline}")
     print(f"  Current Stand: {article2.stand} <-- (UNCHANGED)")
     print(f"  Private Draft Readout:\n  \"{article2.reveal_draft()}\" <-- (UNCHANGED)")
-
