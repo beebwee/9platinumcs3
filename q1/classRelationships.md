@@ -8,27 +8,27 @@
 
 ## Existing Class
 
-Class:
+Class: EditorialWriting
 
-Description:
+Description: A writing category for journalism. It is the voice of a publication.
 
 ## New Related Class
 
-Class:
+Class: ColumnWriting
 
-Description:
+Description: Another writing category for journalism. It shows the opinions and personal experiences of the columnist. 
 
 ## Association
 
-Relationship:
+Relationship: EditorialWriting contains references for ColumnWriting. 
 
-Explanation:
+Explanation: 
 
 ## Multiplicity
 
-Multiplicity:
+Multiplicity: One-to-Many
 
-Explanation:
+Explanation: One editorial can serve as a reference for many columns and opinion articles. 
 
 ## UML Class Relationship Diagram
 
