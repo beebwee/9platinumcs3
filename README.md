@@ -29,4 +29,8 @@ Platinum
 
 [classTestRun.txt](q1/classTestRun.txt)
 
+[classRelationships.md](q1/classRelationships.md)
+
+[classRelationships.py](q1/classRelationships.py)
+
 [images](q1/images)
