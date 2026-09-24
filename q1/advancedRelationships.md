@@ -59,13 +59,11 @@ My child class is a type of my parent class because eukaryotic cells are a type 
 
 The replicate() method was reused in both the parent and child classes. Inheritance reduces duplicate code by passing down attributed and/or methods 
 
-### Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship
-between the two objects.
+### Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship between the two objects.
 
 My HAS-A relationship is composition because when the parent class of cells somehow disappears, the child class of eukaryotic cells can't exist either because they are already a type of that class.
 
-### What is the difference between Association from Part III and the advanced relationship you
-implemented?
+### What is the difference between Association from Part III and the advanced relationship you implemented?
 
 In Part III, the association between my original classes was aggregation, where one class can still function without the other. Part IV, on the other hand, was associated with composition, where both classes and objects can't function when one class is removed.
 
