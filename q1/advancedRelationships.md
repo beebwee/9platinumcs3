@@ -9,7 +9,9 @@
 ## Existing System Description:
 
 Class 1: EditorialWriting
+
 Class 2: ColumnWriting
+
 Problem/limitation: some repeated attributes, some repeated methods
 
 ## Inheritance Relationship
@@ -49,8 +51,7 @@ Explanation: Without any cells, eukaryotic cells can't exist either.
 
 ## Reflection
 
-### Why did you choose your inheritance relationship? Explain why your child class is a type of your
-parent class.
+### Why did you choose your inheritance relationship? Explain why your child class is a type of your parent class.
 
 My child class is a type of my parent class because eukaryotic cells are a type of cell in biology.
 
