@@ -49,26 +49,26 @@ Explanation: Without any cells, eukaryotic cells can't exist either.
 
 ## Reflection
 
-1. Why did you choose your inheritance relationship? Explain why your child class is a type of your
+### Why did you choose your inheritance relationship? Explain why your child class is a type of your
 parent class.
 
 My child class is a type of my parent class because eukaryotic cells are a type of cell in biology.
 
-2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
+### How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
 
 The replicate() method was reused in both the parent and child classes. Inheritance reduces duplicate code by passing down attributed and/or methods 
 
-3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship
+### Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship
 between the two objects.
 
 My HAS-A relationship is composition because when the parent class of cells somehow disappears, the child class of eukaryotic cells can't exist either because they are already a type of that class.
 
-4. What is the difference between Association from Part III and the advanced relationship you
+### What is the difference between Association from Part III and the advanced relationship you
 implemented?
 
 In Part III, the association between my original classes was aggregation, where one class can still function without the other. Part IV, on the other hand, was associated with composition, where both classes and objects can't function when one class is removed.
 
-5. How does your design follow the DRY principle?
+### How does your design follow the DRY principle?
 
 My design relies heavily on the OOP pillar of inheritance and the association of composition. It makes the child class inherit some of the attributes and methods of the parent class. This reduces code duplication, and makes programming more efficient. 
 
