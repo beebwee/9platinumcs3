@@ -33,4 +33,6 @@ Platinum
 
 [classRelationships.py](q1/classRelationships.py)
 
+[advancedRelationships.md](q1/advancedRelationships.md)
+
 [images](q1/images)
