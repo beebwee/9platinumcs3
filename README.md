@@ -41,5 +41,6 @@ Platinum
 ## Activities
 
 [sg8_encapsulation.py](q2/sg8_encapsulation.py)
+[sg8_encapsulation.png](q2/sg8_encapsulation.png)
 
 [images](q1/images)
