@@ -36,4 +36,4 @@ a1 = BankAccount(67890, 1000000)
 a1.set_balance(999999)
 a1.set_balance(-999999)
 
-![Documentation](images/sg8_encapsulation.png)
+![Documentation](q2/sg8_encapsulation.png)
