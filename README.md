@@ -35,4 +35,11 @@ Platinum
 
 [advancedRelationships.md](q1/advancedRelationships.md)
 
+---
+# Quarter 2
+
+## Activities
+
+[sg8_encapsulation.py](q2/sg8_encapsulation.py)
+
 [images](q1/images)
