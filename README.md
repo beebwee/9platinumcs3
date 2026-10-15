@@ -42,5 +42,7 @@ Platinum
 
 [sg8_encapsulation.py](q2/sg8_encapsulation.py)
 [sg8_encapsulation.png](q2/sg8_encapsulation.png)
+[sg9_inheritance.py](q2/sg9_inheritance.py)
+[sg9_inheritance.png](q2/sg9_inheritance.png)
 
 [images](q1/images)
