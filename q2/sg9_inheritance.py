@@ -65,7 +65,7 @@ class Magazine(Publication):
 #These are the created objects.
 pub1 = Publication("Philippines Journal of Science (PJS)", "Many Authors")
 book1 = Book("Percy Jackson and the Olympians: The Lightning Thief", "Rick Riordan", 377)
-mag1 = Magazine(:"Smithsonian", "Smithsonian Institution", 400)
+mag1 = Magazine("Smithsonian", "Smithsonian Institution", 400)
 
 pub1 = Publication("Philippines Journal of Science (PJS)", "Many Authors")
 book1 = Book("Percy Jackson and the Olympians: The Lightning Thief", "Rick Riordan", 377)
