@@ -67,9 +67,6 @@ pub1 = Publication("Philippines Journal of Science (PJS)", "Many Authors")
 book1 = Book("Percy Jackson and the Olympians: The Lightning Thief", "Rick Riordan", 377)
 mag1 = Magazine("Smithsonian", "Smithsonian Institution", 400)
 
-pub1 = Publication("Philippines Journal of Science (PJS)", "Many Authors")
-book1 = Book("Percy Jackson and the Olympians: The Lightning Thief", "Rick Riordan", 377)
-
 print("Publication Information: ")
 pub1.display_info()
 
