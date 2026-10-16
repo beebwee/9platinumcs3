@@ -6,12 +6,12 @@ class BankAccount:
         
        
         self.__balance = float(balance) #This is attribute 2.
-        print("Account 1")
-        print(f"Account Number: {self.__account_number}")
-        print(f"Balance: {self.__balance:.2f}\n")
+        print("Account 1") #This prints "Account 1".
+        print(f"Account Number: {self.__account_number}") #This prints "Account Number: ", followed by the account number given.
+        print(f"Balance: {self.__balance:.2f}\n") #This prints "Balance: ", followed by the balance given.
 
     def set_account_number(self, account_number: int): #This defines the public setter for the account number.
-        self.__account_number = account_number
+        self.__account_number = account_number #
 
     def set_balance(self, balance: float): #This defines public setter 1 for the balance.
         print(f"Update balance to {balance}")
