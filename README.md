@@ -48,4 +48,8 @@ Platinum
 
 [sg9_inheritance.png](q2/sg9_inheritance.png)
 
+[sg10_method_overriding.py](q2/sg10_method_overriding.py)
+
+[sg10_method_overriding.py](q2/sg10_method_overriding.png)
+
 [images](q1/images)
