@@ -50,7 +50,7 @@ Platinum
 
 [sg10_method_overriding.py](q2/sg10_method_overriding.py)
 
-[sg10_method_overriding.py](q2/sg10_method_overriding.png)
+[sg10_method_overriding.png](q2/sg10_method_overriding.png)
 
 [sg11_polymorphism_act1.py](q2/sg11_polymorphism_act1.py)
 
