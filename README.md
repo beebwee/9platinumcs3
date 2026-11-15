@@ -56,4 +56,7 @@ Platinum
 
 [sg11_polymorphism_act2.py](q2/sg11_polymorphism_act2.py)
 
+[q2_images](q2/images)
+
+
 [images](q1/images)
