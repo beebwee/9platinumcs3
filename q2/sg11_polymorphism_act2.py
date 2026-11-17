@@ -89,5 +89,8 @@ vehicles = [car1, boat1, drone1]
 for vehicle in vehicles:
     start_trip(vehicle)
 
+d.
+
+
 3. How does the code in 2.2 demonstrate polymorphism?
 The three classes used above (Car, Boat, and Drone) are unrelated and not subclasses of one another. However, they are all defined by the method move(). The function start_trip() doesn't care about the type of vehicle (car, boat or drone) as long as it has the move() method.
