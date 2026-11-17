@@ -1,12 +1,13 @@
+
 1. Answer the following questions:
     
     a. What is duck typing, as explained in the video?
 
-    - Duck typing merely cares about what the object does (method) rather than what class the object is in. As long as they have the same method, despite being in completely unrelated classes, the object will function.
+    - Duck typing merely cares about what the object does (methods) rather than what class the object is in. As long as they have the same method, despite being in completely unrelated classes, the object will function.
 
     b. What did the Car class need to have so it could work inside the same loop as Dog and Cat, even if it does not inherit from the Animal class?
 
-    - The Car class needed the same method names as the other Animal classes in order for duck typing and polymorphism to work.
+    - The Car class needed the same method names as the other Animal classes for duck typing and polymorphism to work.
 
 2. Create the Python code that:
     
@@ -24,7 +25,7 @@
     
     d. Calls the start_trip() method for each object.
 
-    - 
+    - [Code for #2](q2/sg11_polymorphism_act2.py)
 
 3. How does the code in 2.2 demonstrate polymorphism?
 
